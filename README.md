@@ -15,11 +15,11 @@
 
 ## 实测数据：性能监控图表对比  
 - 前期（未干预）缺少统计数据，但有测试视频，平均约为3.0左右  
-- 中期1 (BSL光影，开始干预) ![中期性能监控](assets/screenshots/详细中期1.jpg)  
+- 中期1 (BSL光影，开始干预) ![中期性能监控](assets/screenshots assets/详细中期1.jpg)  
   - FPS: 平均5.7，帧时间最大517ms，CPU大核波动剧烈。  
-- 中期2: ![中期性能监控](assets/screenshots/详细中期2.jpg)  
+- 中期2: ![中期性能监控](assets/screenshots assets/详细中期2.jpg)  
   - FPS: 平均8.2，帧时间最大573ms，CPU大核高频运行。  
-- 后期 (混沌特调) : ![后期性能监控](assets/screenshots/后期测试ultra预设不关反射.jpg)  
+- 后期 (混沌特调) : ![后期性能监控](assets/screenshots assets/后期测试ultra预设不关反射.jpg)  
   - FPS: 平均9.0关闭录屏有10+，帧时间最大367ms，CPU大核稳定运行。  
 
 ## 极限性能展示：高帧率演示  
